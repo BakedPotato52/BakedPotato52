@@ -9,7 +9,6 @@
 
 ## 🚀 About Me
 
-* 🎓 **Computer Science & Engineering** student at **ICFAI University, Tripura** (Final Year).
 * 💻 Specialized in building robust **Full-Stack Web Applications** with a focus on seamless user experiences and efficient backend architectures.
 * 🧠 Deeply interested in **Digital Image Processing**, **Pattern Recognition**, and **Large Language Models (LLMs)**.
 * ⚡ **Fun Fact:** When I'm not debugging code or training models, I'm likely experimenting with AI image/video generation or plotting 3-star attack strategies in Clash of Clans!
@@ -52,8 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=BakedPotato52&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakedPotato52&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
-
-> **Note:** Replace `YOUR_GITHUB_USERNAME` in the URLs above with your actual GitHub handle to dynamically display your repository stats!
 
 ---
 
