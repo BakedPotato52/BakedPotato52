@@ -58,7 +58,7 @@
 
 * 💼 **LinkedIn:** [`linkedin.com/in/kanak-acharjee`](https://linkedin.com/in/kanak-acharjee)
 * 📧 **Email:** `kanakacharya52@gmail.com`
-* 🌐 **Portfolio:** [`kanakacharjee.me`](https://kanakacharjee.me) (domain expired) 
+* 🌐 **Portfolio:** [`kanakacharjee.in`](https://kanakacharjee.in) 
 
 ---
 <p align="center">
