@@ -65,8 +65,8 @@ I operate at the intersection of robust systems engineering, native-feel cross-p
 ## Telemetry & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BakedPotato52&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7" alt="GitHub Metrics" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakedPotato52&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5" alt="Language Distribution" height="175" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BakedPotato52&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7" alt="GitHub Metrics" height="175" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BakedPotato52&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5" alt="Language Distribution" height="175" />
 </div>
 
 ---
